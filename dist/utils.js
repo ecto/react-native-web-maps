@@ -1,0 +1,1 @@
+Object.defineProperty(exports,"__esModule",{value:true});var LatLng=exports.LatLng=function LatLng(_ref){var latitude=_ref.latitude,longitude=_ref.longitude;return{lat:latitude,lng:longitude};};
